@@ -33,3 +33,59 @@
 * **Frontend:** [사용하신 프레임워크/언어  (/ Flutter)]
 * **Backend:** [사용하신 백엔드 기술  (Spring Boot)]
 * **Database:** [사용하신 데이터베이스 입력 (MySQL)]
+* ## 🖼️ 주요 화면 스크린샷 (Screenshots)
+
+앱의 핵심 기능과 사용자 인터페이스를 보여주는 스크린샷입니다.
+
+### 1. 출석체크 & 홈 화면 (Attendance Check & Home)
+
+사용자가 앱을 처음 열거나 로그인할 때 보이는 메인 화면이며, 당일 출석 여부를 확인합니다.
+
+
+
+---
+
+### 2. 기록 화면 (Recording Screen)
+
+식단, 몸무게, 운동 등 사용자의 건강 관련 데이터를 기록하는 통합 화면입니다.
+
+#### 2.1. 식단 추가 (Add Meal)
+사용자가 섭취한 음식과 양을 입력하여 식단을 기록하는 화면입니다.
+
+![식단 추가 화면 스크린샷](assets/screenshot_meal_add.png)
+
+#### 2.2. 몸무게 기록 (Weight Logging)
+현재 몸무게를 직접 입력하여 기록하는 화면입니다.
+
+![몸무게 기록 화면 스크린샷](assets/screenshot_weight_log.png)
+
+#### 2.3. 오늘 운동 기록 (Today's Workout)
+운동 종류, 시간, 소모 칼로리 등을 기록하는 화면입니다.
+
+![오늘 운동 기록 화면 스크린샷](assets/screenshot_workout.png)
+
+---
+
+### 3. 지갑 화면 (Wallet / Point System)
+
+사용자가 적립한 포인트 잔액과 획득/사용 내역을 확인하고 리워드로 교환할 수 있는 화면입니다.
+
+![지갑 화면 스크린샷](assets/screenshot_wallet.png)
+
+---
+
+### 4. 정보 화면 (Information / Settings)
+
+앱 사용 가이드, 설정, 공지사항 등 정보를 제공하는 화면입니다. (이름은 '설정 화면' 등으로 변경 가능)
+
+![정보 화면 스크린샷](assets/screenshot_info.png)
+
+---
+
+### 5. 친구 추가 화면 (Add Friend)
+*(커뮤니티 기능을 구현하지 않으셨다면 이 섹션은 삭제 가능합니다.)*
+
+다른 사용자를 검색하거나 코드를 통해 친구를 추가하는 화면입니다.
+
+![친구 추가 화면 스크린샷](assets/screenshot_add_friend.png)
+
